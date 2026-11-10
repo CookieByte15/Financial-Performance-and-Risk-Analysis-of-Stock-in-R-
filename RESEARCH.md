@@ -189,21 +189,46 @@ March 2020 recorded a particularly large negative monthly return in the initial 
 
 ## 7. Historical Market Context
 
-### 7.1 2015 Bond Market Movements
+The dataset covers two periods of notable financial-market volatility: the 2015 bond-market sell-off and the market disruption in March 2020. These events provide useful context when examining IBND's historical price movements and volatility.
 
-The dataset shows price movements around 2015, a period that also experienced significant developments in global bond markets.
+### 7.1 Bond Market Sell-Off in 2015
 
-The 2015 bond-market sell-off and LIBOR-related regulatory developments provide useful historical context for understanding the financial environment during this period.
+During April and May 2015, global bond markets experienced a sharp reversal after a prolonged period of falling yields and rising bond prices.
 
-However, the available IBND price data does not establish that LIBOR-related events directly caused the ETF's price movements. A separate event-study analysis would be needed to investigate such a relationship.
+In Europe, government bond yields rose significantly from their historically low levels. The movement was associated with changing investor expectations, adjustments to bond valuations and reduced market liquidity. The sell-off also affected other major bond markets.
 
-### 7.2 March 2020 Market Disruption
+This period is relevant to IBND because changes in broader bond-market yields and investor demand can influence the valuation of corporate bonds. Bond prices generally move in the opposite direction to yields.
 
-The sharp increase in volatility around March 2020 coincided with the global financial-market disruption associated with the COVID-19 pandemic.
+The historical price and moving-average graphs can be used to examine IBND's movements around this period. However, the dataset alone cannot establish that the 2015 bond-market sell-off was responsible for a particular change in IBND's price.
 
-The period saw considerable uncertainty and stress across financial markets.
+**Sources:**
+- Office of Financial Research – *The Sell-off in Long-term Bonds* (21 May 2015).
+- Bank for International Settlements – *Volatility and evaporating liquidity during the bund tantrum* (September 2015).
 
-The IBND dataset reflects substantial price fluctuations during this period. However, the price data alone cannot identify the exact contribution of interest rates, credit spreads, liquidity conditions or other market factors.
+### 7.2 COVID-19 Market Disruption in March 2020
+
+In March 2020, the COVID-19 pandemic triggered significant uncertainty and selling pressure across global financial markets.
+
+Corporate bond markets experienced considerable stress during this period. Credit spreads widened, trading costs increased and market liquidity deteriorated as investors sought to sell assets and raise cash.
+
+These conditions are relevant to IBND because it invests in international corporate bonds. Changes in credit spreads, liquidity and investor demand can affect corporate bond valuations and, consequently, the ETF's market price.
+
+The dataset shows particularly large daily negative returns on 18 and 19 March 2020. It also records a sharp increase in annualized rolling volatility towards the end of March 2020.
+
+These observations coincide with the broader market disruption documented by financial authorities. However, the analysis does not isolate the individual effects of interest rates, credit risk, liquidity or other market factors on IBND.
+
+**Sources:**
+- European Central Bank – *Financial Stability Review, May 2020*.
+- U.S. Securities and Exchange Commission – *U.S. Credit Markets: Interconnectedness and the Effects of the COVID-19 Economic Shock*.
+- Federal Reserve – *The Corporate Bond Market Crises and the Government Response* (7 October 2020).
+
+### 7.3 Interpretation
+
+The two periods provide examples of how changes in bond-market conditions and investor behaviour can coincide with movements in IBND's price and volatility.
+
+The 2015 period highlights changes in bond yields and market volatility, while March 2020 illustrates the effects of severe market uncertainty and reduced liquidity in corporate bond markets.
+
+These comparisons are historical observations rather than evidence of direct causation. A more detailed event study, supported by benchmark yields, credit spreads and liquidity data, would be required to investigate the relationship further.
 
 ## 8. Limitations
 
