@@ -252,13 +252,11 @@ The project can be extended in several ways:
 
 ## 10. Conclusion
 
-This project explored the historical financial performance and risk characteristics of IBND using R.
+This project explored the historical financial performance and risk characteristics of IBND using R. The analysis covered adjusted prices, daily and cumulative returns, moving averages, rolling volatility, maximum drawdown and monthly returns.
 
-The analysis covered adjusted prices, daily and cumulative returns, moving averages, rolling volatility, maximum drawdown and monthly returns.
+One of the most notable observations was the sharp increase in volatility during March 2020, alongside a maximum observed drawdown of approximately 21.72% over the dataset period. Although IBND showed an overall positive cumulative return, the analysis demonstrated that positive returns do not necessarily mean an investment is free from significant fluctuations and losses.
 
-One of the most notable observations was the increase in volatility during March 2020, alongside a maximum observed drawdown of approximately 21.72% over the dataset period.
-
-Overall, the project provided practical experience in financial data analysis, statistical calculations and visualisation using R.
+Overall, the project provided practical experience in financial data analysis, statistical calculations and visualisation using R, while highlighting the importance of evaluating both returns and risk when studying an investment.
 
 ## Disclaimer
 
